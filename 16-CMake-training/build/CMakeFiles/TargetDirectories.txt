@@ -1,0 +1,3 @@
+/run/media/itsfill/Software/CPlusPlus/Projects/CMake-training/build/CMakeFiles/Cmake-training.dir
+/run/media/itsfill/Software/CPlusPlus/Projects/CMake-training/build/CMakeFiles/edit_cache.dir
+/run/media/itsfill/Software/CPlusPlus/Projects/CMake-training/build/CMakeFiles/rebuild_cache.dir
